@@ -1,0 +1,5 @@
+*.class
+.metadata/
+target/
+.cache
+lib_managed/
